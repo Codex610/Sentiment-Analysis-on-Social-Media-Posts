@@ -46,6 +46,7 @@ This project uses Flask for deployment and a modern, responsive UI built with Bo
 
 ## 📂 Project Structure
 ### Sentiment-Analysis-Flask/
+'''
 │
 ├── main.py               # Flask Web App
 ├── lstm_model.h5         # Trained LSTM Model
@@ -55,6 +56,7 @@ This project uses Flask for deployment and a modern, responsive UI built with Bo
 │   └── index.html        # Web UI
 │
 └── static/               # (Optional)
+'''
 
 ### ⚙️ How It Works
 #### 1. Text Preprocessing
