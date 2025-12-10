@@ -1,7 +1,7 @@
 ## 📘 Sentiment Analysis on Social Media Posts — Flask + LSTM
 
-''' A deep learning–powered web application that predicts Positive or Negative sentiment from social media posts using an LSTM neural network.
-This project uses Flask for deployment and a modern, responsive UI built with Bootstrap 5 and glassmorphism design. '''
+A deep learning–powered web application that predicts Positive or Negative sentiment from social media posts using an LSTM neural network.
+This project uses Flask for deployment and a modern, responsive UI built with Bootstrap 5 and glassmorphism design.
 
 ### 🚀 Features
 
@@ -46,8 +46,7 @@ This project uses Flask for deployment and a modern, responsive UI built with Bo
 
 ## 📂 Project Structure
 ### Sentiment-Analysis-Flask/
-'''
-│
+''' txt
 ├── main.py               # Flask Web App
 ├── lstm_model.h5         # Trained LSTM Model
 ├── tokenizer.pkl         # Saved Tokenizer
